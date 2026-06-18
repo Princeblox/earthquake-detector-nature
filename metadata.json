@@ -1,0 +1,6 @@
+{
+  "name": "Nature Earthquake Intelligence",
+  "description": "Premium real-time earthquake intelligence platform with live seismic monitoring, global USGS timeline, and advanced geodetector capabilities",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
